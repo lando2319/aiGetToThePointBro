@@ -1,0 +1,4 @@
+node_modules/*
+
+audio/*
+!audio/.gitkeep
